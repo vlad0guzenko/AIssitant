@@ -1,8 +1,17 @@
 # Aissistent
+
 iOS app to speak with ChatGPT
 
-Stack: SwiftUI + MVVM
+## Installation
 
-Used API: ChatGPT
+Xcode 14 + IOS 16
 
-![Simulator Screen Shot - iPhone 14 Plus - 2023-02-10 at 18 51 09](https://user-images.githubusercontent.com/59142519/218136406-92e2703f-7052-4a77-8c3f-f24f50915721.png)
+## Stack
+
+SwiftUI + MVVM
+
+## Used links
+
+https://openai.com/api/ - ChatGPT API
+
+![AI](https://user-images.githubusercontent.com/59142519/218138945-dac74867-3440-4037-8a9e-59b8a91be932.png)
